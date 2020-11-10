@@ -1,0 +1,5 @@
+[nginx]
+13.233.106.140 ansible_user=ec2-user
+[db]
+65.0.179.87 ansible_user=ec2-user
+	
